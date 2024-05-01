@@ -1,4 +1,5 @@
-# 1 Agenda de Amigos em C/C++
+#  Agenda de Amigos em C/C++ 
+  ![logo c++] (https://cloud.google.com/cpp?hl=pt-br)
 
 Este é um projeto em C/C++ desenvolvido para gerenciar uma agenda de amigos. Cada amigo na agenda possui os seguintes campos:
 
