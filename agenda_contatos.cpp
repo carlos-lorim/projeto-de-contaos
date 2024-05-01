@@ -22,7 +22,7 @@ int main() {
     string entrada;
     int acao;
 
-    ifstream arquivo("/home/carlos/vs code/trabalho de contatos/contatos.txt");
+    ifstream arquivo("/home/carlos/vs code/trabalho de contatos/contatos.txt");// e necessario que mude o caminho para o arquivo txt 
     if (!arquivo.is_open()) {
         cout << "erro: arquivo nao existe" << endl;
         return 1;
