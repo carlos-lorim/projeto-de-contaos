@@ -22,7 +22,7 @@ int main() {
     string entrada;
     int acao;
 
-    ifstream arquivo("contatos.txt");
+    ifstream arquivo("/home/carlos/vs code/trabalho de contatos/contatos.txt");
     if (!arquivo.is_open()) {
         cout << "erro: arquivo nao existe" << endl;
         return 1;
