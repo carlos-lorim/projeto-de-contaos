@@ -35,6 +35,6 @@ Contribuições são bem-vindas! Se você identificar algum problema ou tiver su
 
 ## Autor
 
-Este projeto foi desenvolvido por [Seu Nome/Aplicativo](https://github.com/seu-usuario).
+Este projeto foi desenvolvido por: carlos augusto regis lorim 
 
 
